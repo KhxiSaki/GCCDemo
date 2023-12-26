@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VisualStudioTools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"E:\GCCStarterProject\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"E:\GCCStarterProject\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\UnrealEditor-VisualStudioTools.lib"
